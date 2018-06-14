@@ -8,3 +8,4 @@ node_spider.py中封装SpiderWork进程，
 entities_manager中封装UrlManager和数据存储器，
 entities_spider中封装HtmlDownloder和HtmlParser，
 详细请参考流程图。
+![Image text](https://github.com/JoeyLwq/baike_spider/blob/master/流程图.png)
